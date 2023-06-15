@@ -6,7 +6,6 @@
 
 - 🌱 I’m currently Working as WordPress developer. Also learning Web Development and other Programming Language.
 - 📫 How to reach me **harshgajipara4@gmail.com**
-- 💬 Ask me about anything related to WordPress, PHP.(After Googling it 😜😌)
 - ⚡ Interests :-  Food🍔, Travel✈️, Photography📷,  Reading📚
 
 <h2 align="center">Knowledge Base</h2>
